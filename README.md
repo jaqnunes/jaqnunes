@@ -1,6 +1,6 @@
 ## Hi there, i'm Jackelyne!
 
-◾ Currently learning Java and MySQL
+◾ Currently learning Java, HTML, CSS and Vue.js
 
 ##
 
