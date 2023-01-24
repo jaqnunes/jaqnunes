@@ -1,6 +1,6 @@
 ## Hi there, i'm Jackelyne!
 
-◾ Currently a Intern Developer at IBM.
+◾ Currently a Intern Developer at IBM. <br>
 ◾ Working with JavaScript, Vue.js, Fastify and more.
 
 ##
