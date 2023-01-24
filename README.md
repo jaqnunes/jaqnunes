@@ -1,6 +1,7 @@
 ## Hi there, i'm Jackelyne!
 
-◾ Currently learning Java, HTML, CSS and Vue.js
+◾ Currently a Intern Developer at IBM.
+◾ Working with JavaScript, Vue.js, Fastify and more.
 
 ##
 
